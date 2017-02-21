@@ -8,3 +8,4 @@ I change the file in the feature branch.
 merge
 no Fast forward
 fast Forward
+issue bug
