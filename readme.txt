@@ -7,3 +7,4 @@ change in the master branch
 I change the file in the feature branch.
 merge
 no Fast forward
+fast Forward
