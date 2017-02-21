@@ -8,4 +8,8 @@ I change the file in the feature branch.
 merge
 no Fast forward
 fast Forward
+<<<<<<< Updated upstream
 issue bug
+=======
+stash
+>>>>>>> Stashed changes
