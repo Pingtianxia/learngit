@@ -6,3 +6,4 @@ Creating a new branch is quick.
 change in the master branch
 I change the file in the feature branch.
 merge
+no Fast forward
