@@ -9,7 +9,11 @@ merge
 no Fast forward
 fast Forward
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 issue bug
+=======
+stash
+>>>>>>> Stashed changes
 =======
 stash
 >>>>>>> Stashed changes
